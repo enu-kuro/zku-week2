@@ -51,7 +51,7 @@ Private voting, whistleblowing, mixers, and anonymous authentication can be deve
 
 ### 2-1. Run the tests and add a screenshot of all the test passing.
 
-TODO: add image
+[screenshot of all the test passing](https://github.com/enu-kuro/zku-week2/blob/main/q2-2-1.png)
 
 ### 2-2. Explain code in the sempahore.circom file (including public, private inputs).
 
@@ -100,7 +100,7 @@ Public inputs:
 signalHash: the hash of the user's signal,
 externalNullifier: the 32-byte external nullifier.
 
-https://github.com/appliedzkp/semaphore/blob/4e6be04729ed2d7e29461a3915877a66a2c9c4d2/docs/versioned_docs/version-V2/technical-reference/circuits.md
+Referenced from: [circuits.md](https://github.com/appliedzkp/semaphore/blob/4e6be04729ed2d7e29461a3915877a66a2c9c4d2/docs/versioned_docs/version-V2/technical-reference/circuits.md)
 
 ### 3-1. What potential challenges are there to overcome in such an authentication system?
 
@@ -163,11 +163,11 @@ is more critical while off chain cost can be acceptable.
 
 ### 3-1. Run the tests and add a screenshot of all the tests passing.
 
-TODO: add image
+[screenshot of all the test passing](https://github.com/enu-kuro/zku-week2/blob/main/q3-3-1.png)
 
 ### 3-2. Add a script named custom.test.js under test/ and write a test for all of the followings in a single it function
 
-add link
+[custom.test.js](https://github.com/enu-kuro/zku-week2/blob/main/custom.test.js)
 
 ## Question 4. Thinking In ZK
 
