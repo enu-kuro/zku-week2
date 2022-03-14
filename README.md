@@ -172,3 +172,15 @@ is more critical while off chain cost can be acceptable.
 ## Question 4. Thinking In ZK
 
 ### 4-1. If you have a chance to meet with the people who built Tornado Cash & Semaphore, what questions would you ask them about their protocols?
+
+This question is not only for Tornado cash but more general question for technically difficult projects.
+It seeems that Tornado cash can update contract by TORN holders governance.
+But I think its code is very difficutlt to understand for average developers so how many people actually understand what they are updating?
+I feel I need to trust core developers for using tornado cash.
+If few people understand its code, isn't it more like centralized governance?
+How to maintain trustless and decentralized governance?
+
+Mixer services can be regulated by authorities.
+Even if any authorities can't stop smart contracts but paricipants would decrease because it's legally risky.
+Tornado cash needs a lot of participants for maitaining anonimity.
+Are there any solutions for this problem?
